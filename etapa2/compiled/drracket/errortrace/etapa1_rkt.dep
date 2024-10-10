@@ -1,0 +1,1 @@
+("8.12" ta6nt ("f8bfb083ca2edb61dc18e689340bb14e56b03791" . "910edf2526c83eccfcd9e9c9be51bcaf6fa5be89") #"C:\\Users\\Maria\\Desktop\\etapa1pp\\etapa2\\suffix-tree.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"mzlib" #"trace.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
